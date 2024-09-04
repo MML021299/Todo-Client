@@ -1,1 +1,1 @@
-export const APIURL = 'http://localhost:3010'
+export const APIURL = 'https://todo-api-beryl.vercel.app'
